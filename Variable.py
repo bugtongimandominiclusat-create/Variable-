@@ -1,6 +1,6 @@
-fullname = "Andrew Josie A. Suan"        
-age = 22                 
-height = 1.75                
+fullname = "Iman Dominic Bugtong"        
+age = 18                 
+height = 1.76                
 working = False           
    
 print("Fullname:", fullname) 
